@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rhian-custodio.github.io",
+  "homepage": "https://rhian-custodio.github.io/deploy-landing-page",
   "name": "landingpage-react-template",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "eject": "react-scripts eject",
     "dev": "node app.jsx",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
