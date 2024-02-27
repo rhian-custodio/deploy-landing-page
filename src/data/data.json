@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Potencialize seus Cálculos, Simplifique seu Trabalho!",
+    "paragraph": "A inovação que simplifica e aprimora seus cálculos pneumáticos e hidráulicos, colocando o poder na ponta dos seus dedos."
+  },
+  "About": {
+    "paragraph": "Nós, alunos do SENAI São Carlos, estamos desenvolvendo um projeto focado em Pneumática e Hidráulica. Nosso objetivo principal é criar uma página informativa e um aplicativo calculadora para fornecer recursos valiosos aos alunos e professores. A página abrangerá conceitos essenciais, artigos informativos e atualizações relevantes. O aplicativo será uma calculadora especializada, simplificando cálculos complexos e proporcionando eficiência no manuseio de dados cruciais para projetos. Junte-se a nós nesta jornada de aprendizado e inovação em Pneumática e Hidráulica!",
+    "Why": [
+      "Alunos SENAI São Carlos",
+      "Precisão em calculos",
+      "Projeto integrado: página e app",
+      "Conteúdo dinâmico e prático"
+    ],
+    "Why2": [
+      "Calculadora eficiente",
+      "Comunidade colaborativa",
+      "Melhorias contínuas",
+      "Acesso simplificado"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "R. Cândido Padim, 25 - Vila Prado, São Carlos - SP",
+    "phone": "(16) 99734-6670",
+    "email": "codeINair@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Motivação do Projeto",
+      "text": "Impulsionada por um compromisso profundo com a melhoria do ensino e aprendizado na área pneumática e hidráulica. Decidimos criar uma solução abrangente que não apenas simplificasse os cálculos, tornando-os mais rápidos e fáceis, mas também contribuísse para aprimorar a experiência educacional."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Objetivo",
+      "text": "Potencializar professores, proporcionando-lhes uma ferramenta eficaz para apresentar conceitos de maneira clara e interativa. Para os alunos, buscamos fornecer uma plataforma que não apenas resolva problemas, mas também estimule a compreensão aprofundada dos princípios pneumáticos e hidráulicos."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Como Trabalhamos",
+      "text": "Comprometemo-nos a tornar os cálculos acessíveis, rápidos e descomplicados para professores e alunos. Desenvolvemos uma calculadora pneumática e hidráulica com foco na simplicidade e eficiência, utilizando tecnologia de ponta. Nosso aplicativo intuitivo simplifica todo o processo de cálculo, proporcionando uma experiência fluida e eficaz."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "O Que Será Feito",
+      "text": "O aplicativo será projetado com uma interface intuitiva, permitindo que usuários realizem cálculos complexos com facilidade, proporcionando resultados instantâneos. Além disso, o site será uma extensão do aplicativo oferecendo uma plataforma online para acesso conveniente e uma experiência contínua de aprendizado."
+    }
+  ]
+}
