@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "Potencialize seus Cálculos, Simplifique seu Trabalho!",
+    "paragraph": "A inovação que simplifica e aprimora seus cálculos pneumáticos e hidráulicos, colocando o poder na ponta dos seus dedos."
+  },
+  "About": {
+    "paragraph": "Nós, alunos do SENAI São Carlos, estamos desenvolvendo um projeto focado em Pneumática e Hidráulica. Nosso objetivo principal é criar uma página informativa e um aplicativo calculadora para fornecer recursos valiosos aos alunos e professores. A página abrangerá conceitos essenciais, artigos informativos e atualizações relevantes. O aplicativo será uma calculadora especializada, simplificando cálculos complexos e proporcionando eficiência no manuseio de dados cruciais para projetos. Junte-se a nós nesta jornada de aprendizado e inovação em Pneumática e Hidráulica!",
+    "Why": [
+      "Alunos SENAI São Carlos",
+      "Precisão em calculos",
+      "Projeto integrado: página e app",
+      "Conteúdo dinâmico e prático"
+    ],
+    "Why2": [
+      "Calculadora eficiente",
+      "Comunidade colaborativa",
+      "Melhorias contínuas",
+      "Acesso simplificado"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/cu.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/image1.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/image2.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/image3.png"
+    }
+  ],
+  "Gallery2": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/cu.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/image2.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/image3.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "R. Cândido Padim, 25 - Vila Prado, São Carlos - SP",
+    "phone": "(16) 99734-6670",
+    "email": "codeINair@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Motivação do Projeto",
+      "text": "Desenvolvemos uma solução completa para aprimorar o ensino de pneumática e hidráulica, simplificando cálculos e agilizando o aprendizado."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Objetivo",
+      "text": "Preparamos professores com ferramenta eficaz, oferecendo plataforma para resolver problemas e estimular compreensão de pneumática e hidráulica."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Como Trabalhamos",
+      "text": "Compromisso: Simplificar cálculos para professores e alunos. Calculadora pneumática/hidráulica intuitiva, eficiente e tecnologia de ponta para experiência fluida."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "O Que Será Feito",
+      "text": "Aplicativo: Interface intuitiva, cálculos complexos, resultados instantâneos. Site: Acesso conveniente, experiência contínua de aprendizado."
+    }
+  ]
+}

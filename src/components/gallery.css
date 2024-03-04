@@ -1,0 +1,52 @@
+/* Gallery.css */
+
+/* Adicione estilos para o carrossel em si */
+.slick-slider {
+  border-radius: 20px; /* Adicione o border-radius desejado */
+  overflow: hidden;   /* Certifique-se de que o overflow está oculto para aplicar corretamente o border-radius */
+}
+
+/* Estilos para os slides do carrossel */
+.slick-slide {
+  border-radius: 20px; /* Adicione o border-radius desejado aos slides */
+}
+
+.image-with-navigation {
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-image {
+  width: 100%;
+  object-fit:contain;
+  height: 550px;
+  border-radius: 20px;
+}
+
+.carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+.carousel-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-left-arrow {
+  left: 10px;
+}
+
+.carousel-right-arrow {
+  right: 10px;
+}
