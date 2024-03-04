@@ -20,6 +20,10 @@ h2 {
   font-size: 36px;
   color: #333;
 }
+.peu{
+  font-size: 25px;
+}
+
 h3 {
   font-size: 20px;
   font-weight: 600;
@@ -35,8 +39,12 @@ h5 {
   font-weight: 700;
   line-height: 20px;
 }
+.pedro{
+  font-size: 20px;
+}
+
 p {
-  font-size: 15px;
+  font-size: 20px;
 }
 p.intro {
   margin: 12px 0 0;
@@ -218,7 +226,7 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.3);
 }
 h1{
   margin-bottom: 100px;
@@ -227,11 +235,10 @@ h1{
   font-family: "Raleway", sans-serif;
   color: #fff;
   font-size: 60px;
-  font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.5);
 }
 .intro h1 span {
   font-weight: 800;
@@ -239,12 +246,12 @@ h1{
 }
 .intro p {
   color: #fff;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 300;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.5);
 }
 header .intro-text {
   padding-top: 190px;
@@ -254,6 +261,7 @@ header .intro-text {
 /* Features Section */
 #features {
   background: #f6f6f6;
+  padding: 0 0 100px;
 }
 #features i.fa {
   font-size: 38px;
@@ -270,9 +278,10 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
+  background: #f6f6f6;
 }
 #about h3 {
-  font-size: 22px;
+  font-size: 24px;
   margin: 0 0 20px;
 }
 #about h2 {
@@ -294,6 +303,7 @@ header .intro-text {
   margin-left: 6px;
   list-style: none;
   padding: 0;
+  font-size: 15px;
 }
 #about .about-text li:before {
   content: "\f00c";
@@ -361,6 +371,7 @@ header .intro-text {
 #portfolio {
   padding: 100px 0;
 }
+
 .portfolio-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
@@ -474,7 +485,7 @@ header .intro-text {
   margin-bottom: 40px;
 }
 #contact .section-title p {
-  font-size: 16px;
+  font-size: 18px;
 }
 #contact h2 {
   color: #fff;
@@ -605,6 +616,7 @@ label {
 #footer a:hover {
   border-bottom: 2px solid #608dfd;
 }
+
 
 @media (max-width: 768px) {
   #about img {
